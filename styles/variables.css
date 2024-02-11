@@ -2,7 +2,7 @@
 
 :root {
   --font-variation-family: Inter-Variable, Arial, sans-serif;
-  --font-accent-family: PressStart2P-Regular, Arial, sans-serif;
+  --font-accent-family: PressStart2P, Arial, sans-serif;
   --font-title-wieght: 700;
   --font-text-wieght: 400;
   --text-font-size: 18px;
@@ -12,7 +12,7 @@
   --background-page-color: #ffffff;
   --background-accent-color: #ffffff;
   --background-gradient: repeating-linear-gradient(90deg, #d3d3d3 0px 2px,  #d3d3d300 2px 4px), repeating-linear-gradient(#d3d3d3 0px 2px,  #d3d3d300 2px 4px),
-  linear-gradient(#e7e7e7 0.01%, #1a1a1a) center / cover;
+  linear-gradient(#e7e7e7 0.01%, #1a1a1a);
   --accent-color: #000;
   --border-color: #000;
   --page-padding: 100px 0px;
